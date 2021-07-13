@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+> Meticulous web developer with over 5 months of front end experience and passion for responsive website design and a firm believer in the mobile-first approach.
 
 
 [![AzeBilir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzeBilir)](https://github.com/AzeBilir/github-readme-stats)
