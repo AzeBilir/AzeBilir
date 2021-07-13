@@ -12,7 +12,7 @@ I'm Aze from Turkey and I'm front-end developer. I am a firm believer in a passi
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
 </p>
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+
 
 [![AzeBilir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzeBilir)](https://github.com/AzeBilir/github-readme-stats)
 
