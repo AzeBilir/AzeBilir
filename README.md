@@ -6,7 +6,9 @@ I'm Aze from Turkey and I'm front-end developer. I am a firm believer in a passi
 
 ### Languages and Tools
 
+ <p align="center"> 
  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+ 
 
 [![AzeBilir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzeBilir)](https://github.com/AzeBilir/github-readme-stats)
 
