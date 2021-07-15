@@ -3,14 +3,12 @@
 I'm Aze from Turkey and I'm front-end developer. I am a firm believer in a passion for responsive website design and mobile priority. I really enjoy learning languages and frameworks like React and Bootstrap. I also enjoy ui, ux design in general.
 
 
-## 🚀 Languages and Tools:
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-</p>
+
+# My technologies
+
+<p align="left" style="min-width: 300px">
+
+ [![HTML Badge](https://img.shields.io/badge/-HTML-f67c01?style=for-the-badge&labelColor=141929&logo=html5&logoColor=f67c01)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-30ace0?style=for-the-badge&labelColor=141929&logo=css3&logoColor=30ace0)](#) [![JAVASCRIPT Badge](https://img.shields.io/badge/-Javascript-fbff00?style=for-the-badge&labelColor=141929&logo=javascript&logoColor=fbff00)](#)[![REACT Badge](https://img.shields.io/badge/-React-00ffd9?style=for-the-badge&labelColor=141929&logo=react&logoColor=00ffd9)](#)[![NODE Badge](https://img.shields.io/badge/-NodeJS-26bf00?style=for-the-badge&labelColor=141929&logo=node.js&logoColor=04bf1d)](#)
 
 
 
@@ -33,4 +31,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+## 🚀 Languages and Tools:
+<p align="left"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+</p>
+
 -->
