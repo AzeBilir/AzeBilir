@@ -13,6 +13,17 @@ I'm Aze from Turkey and I'm front-end developer. I am a firm believer in a passi
 
 
 [![AzeBilir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzeBilir)](https://github.com/AzeBilir/github-readme-stats)
+ 
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 
 
