@@ -20,7 +20,7 @@ I'm Aze from Turkey and I'm front-end developer. I am a firm believer in a passi
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AzeBilir/github-readme-activity-graph"><img alt="Aze Bilir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AzeBilir&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
