@@ -10,9 +10,6 @@ I'm Aze from Turkey and I'm front-end developer. I am a firm believer in a passi
 
  [![HTML Badge](https://img.shields.io/badge/-HTML-f67c01?style=for-the-badge&labelColor=141929&logo=html5&logoColor=f67c01)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-30ace0?style=for-the-badge&labelColor=141929&logo=css3&logoColor=30ace0)](#) [![JAVASCRIPT Badge](https://img.shields.io/badge/-Javascript-fbff00?style=for-the-badge&labelColor=141929&logo=javascript&logoColor=fbff00)](#)[![REACT Badge](https://img.shields.io/badge/-React-00ffd9?style=for-the-badge&labelColor=141929&logo=react&logoColor=00ffd9)](#)[![NODE Badge](https://img.shields.io/badge/-NodeJS-26bf00?style=for-the-badge&labelColor=141929&logo=node.js&logoColor=04bf1d)](#)
 
-
-
-[![AzeBilir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzeBilir)](https://github.com/AzeBilir/github-readme-stats)
  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  
