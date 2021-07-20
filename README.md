@@ -13,8 +13,8 @@ I'm Aze from Turkey and I'm front-end developer. I am a firm believer in a passi
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="AzeBilir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AzeBilir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="AzeBilir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzeBilir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AzeBilir/github-readme-stats"><img alt="AzeBilir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AzeBilir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AzeBilir/github-readme-stats"><img alt="AzeBilir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzeBilir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <!--
 **AzeBilir/AzeBilir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
