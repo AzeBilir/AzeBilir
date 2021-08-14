@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aze from Turkey and I'm front-end developer. I am a firm believer in a passion for responsive website design and mobile priority. I really enjoy learning languages and frameworks like React and Bootstrap. I also enjoy ui, ux design in general.
+I'm Aze from Turkey and I'm front-end developer. I am a firm believer in a passion for responsive website design and mobile priority. I really enjoy learning languages and frameworks like React and Bootstrap. I also enjoy ui, ux design in general...
 
 
 
